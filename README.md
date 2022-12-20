@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luneyune
-- 👀 I’m interested in C, Game Development, C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C, C++ and C#
+- 🌱 I’m currently learning C++
 - 📫 How to reach me ivankirspu@gmail.com
 
 <!---
